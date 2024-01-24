@@ -1,0 +1,4 @@
+class GitRepository
+{
+    private Dictionary<string, List<string>> branches;
+    private string currentBranch;
